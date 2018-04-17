@@ -14,21 +14,21 @@
 "row_list": [
 [
 "Aalst",
-"Ballegat",
+"target": ["Ballegat","Poepegat"],
 "#",
 "#",
 "#"
 ],
 [
 "Aardenburg",
-"'t Uulehat",
+"target": ["'t Uulehat"],
 "#",
 "#",
 "#"
 ],
 [
 "Aarle-Rixtel",
-"Ganzegat",
+"target": ["Ganzegat","Ganzegat"],
 "#",
 "#",
 "#"
