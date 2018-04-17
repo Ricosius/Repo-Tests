@@ -1,0 +1,39 @@
+{
+"List": [
+{
+"sheet_name": [
+"Plaatsnamen Carnaval"
+],
+"col_name_list": [
+"Plaatsnaam",
+"Carnavalsnaam",
+"Level",
+"Label",
+"Notes"
+],
+"row_list": [
+[
+"Aalst",
+"Ballegat",
+"#",
+"#",
+"#"
+],
+[
+"Aardenburg",
+"'t Uulehat",
+"#",
+"#",
+"#"
+],
+[
+"Aarle-Rixtel",
+"Ganzegat",
+"#",
+"#",
+"#"
+]
+]
+}
+]
+}
