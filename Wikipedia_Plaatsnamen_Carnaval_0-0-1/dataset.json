@@ -14,21 +14,21 @@
 "row_list": [
 [
 "Aalst",
-["Ballegat", "","Poepegat"],
+[["Ballegat", "#","Poepegat"]],
 "#",
 "#",
 "#"
 ],
 [
 "Aardenburg",
-["'t Uulehat"],
+[["'t Uulehat"]],
 "#",
 "#",
 "#"
 ],
 [
 "Aarle-Rixtel",
-["Ganzegat","Kippegat","Ricogat"],
+[["Ganzegat","Kippegat","Ricogat"]],
 "#",
 "#",
 "#"
