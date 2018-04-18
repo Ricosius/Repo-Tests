@@ -12,14 +12,20 @@
 		"Notes"
 		],
 		"row_list": [
-			{
-				"ee":"Aalst",
-				"Target":["Ballegat" ,null, "Poepegat"],
-				"eew":"#",
-				"eeew":"#",
-				"eeeew":"#"
-			}
-		
+			[
+				"Aalst",
+				["Ballegat" ,null, "Poepegat"],
+				"#",
+				"#",
+				"#"
+			],
+			[
+				"Aardenburg",
+				["'t Uulehat",]
+				"#",
+				"#",
+				"#"
+			]
 		]
 	}
 ]
