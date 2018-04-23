@@ -7,28 +7,32 @@
 "col_name_list": [
 "Plaatsnaam",
 "Carnavalsnaam",
+"Bijnaam",
 "Level",
 "Label",
 "Notes"
 ],
 "row_list": [
 [
-"Aalst",
-["Ballegat", "#","Poepegat"],
+["Aalst"],
+["Ballegat","Poepegat"],
+["#"],
 "#",
 "#",
 "#"
 ],
 [
-"Aardenburg",
+["Aardenburg"],
 ["'t Uulehat"],
+["Arieburg","Arieberg"]
 "#",
 "#",
 "#"
 ],
 [
-"Aarle-Rixtel",
-["Ganzegat","Kippegat","Ricogat"],
+["Aarle-Rixtel"],
+["#"],
+["Ganzegat","Kippegat","Ricogat"]
 "#",
 "#",
 "#"
