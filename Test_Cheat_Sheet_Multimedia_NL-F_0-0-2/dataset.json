@@ -18,8 +18,8 @@
 ],
 "row_list":[
 	[
-		"akkoord / prima", 
-		"d'accord", 
+		["akkoord / prima"], 
+		["d'accord"], 
 		"#", 
 		"instemmen", 
 		"#", 
@@ -28,7 +28,7 @@
 		"#", 
 		"#", 
 		"#", 
-		"#", 
+		["voila_1.png"], 
 		"#"
 	], 
 	[
