@@ -33,7 +33,7 @@
 	], 
 	[
 		["alstublieft"],
-		["voil\u00e0","TestItem"], 
+		["voil\u00e0","TestItemAlstu"], 
 		"#", 
 		"beleefdheid", 
 		"#", 
@@ -43,6 +43,48 @@
 		"voila.mp3", 
 		"voila.mp3", 
 		["voila_1.png","les_jours_de_la_semaine_en_francais.jpg"],
+		"#"
+	],
+	[
+		["dank u"],
+		["merci","TestItemDanku"],
+		"#",
+		"beleefdheid",
+		"#",
+		"#",
+		"#",
+		"#",
+		"#",
+		"#",
+		["#"],
+		"#"
+	],
+	[
+		["dank u wel"],
+		["merci bien"],
+		"#",
+		"beleefdheid",
+		"#",
+		"#",
+		"#",
+		"#",
+		"#",
+		"#",
+		["#"],
+		"#"
+	],
+	[
+		["goede reis!"],
+		["bon voyage!"],
+		"#",
+		"groeten",
+		"#",
+		"#",
+		"#",
+		"#",
+		"#",
+		"#",
+		["#"],
 		"#"
 	]
 ]
