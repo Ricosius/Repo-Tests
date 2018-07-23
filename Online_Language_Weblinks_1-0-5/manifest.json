@@ -1,0 +1,5 @@
+{
+"sheet_name":["Manifest"],
+"col_name_list":["Name metadata field", "Value", "Notes"],
+"row_list":[["Dataset type", "Weblinks", "#"], ["Dataset name", "Online Language Weblinks", "Weblinks to online language resources as example dataset for TOMLA weblinks menu."], ["Version number", "1.0.5", "#"], ["Version date", "20180718", "#"], ["Author", "TOMLA", "#"], ["Publisher", "TOMLA", "The Offline Multi-functional Language App"], ["Publisher short name", "TOMLA", "#"], ["Organisation", "TOMLA", "#"], ["E-mail", "tomla(dot)app(at)gmail(dot)com", "#"], ["Content License", "CC-BY-SA", "Creative Commons licentie: https://creativecommons.org/licenses/by-sa/3.0/deed.nl"]]
+}
